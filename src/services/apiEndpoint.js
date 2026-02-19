@@ -5,7 +5,7 @@ export const ENDPOINTS = {
   GETABOUTPAGE: `/pages/aboutPage`,
   GETHISTORYPAGE: `/pages/historyPage`,
   GETAGRILABPAGE: `/pages/agrilab`,
-  GETPRODUTPAGE: `/pages/productpage`,
+  GETPRODUTPAGE: `/pages/product`,
   UPDATEHOMEPAGE: `/pages/homepage`,
   UPLOAD_IMAGE: `/upload/image`,
   UPLOAD_VIDEO: `/upload/video`,
